@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ChatGPT Clone (Groq + SerpAPI) 
+
+A ChatGPT-style AI Chat Application built with Groq SDK and SerpAPI.
+It uses the open-source GPT model “openai/gpt-oss-120b” via Groq for intelligent conversation handling, combined with real-time web search powered by SerpAPI, enabling the assistant to deliver accurate and up-to-date answers on current or niche topics.
+
+
+## Features
+
+The application has following features:
+
+- Conversational AI using the open-source GPT-120B model
+- Real-time Web Search integration via SerpAPI
+- Tool Calling Mechanism that performs an automatic search when knowledge is insufficient
+
 
 ## Getting Started
 
-First, run the development server:
+1. Clone this repository to your local machine:
+   ```shell
+   git clone https://github.com/harrismalik98/ChatGPT-Clone.git
+   ```
+2. Install the dependencies:
+   ```shell
+   cd ChatGPT-Clone
+   npm install
+   ```
+3. Configure environment variables by creating a `.env` file in the project root:
+   ```shell
+   GROQ_API_KEY=
+   SERP_API_KEY=
+   ```
+4. Start the development server:
+   ```shell
+   npm run dev
+   ```
+5. Access the application in your web browser at http://localhost:3000
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The ChatGPT Clone is a full-stack web application built with the following modern tools and technologies:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js 15:** A powerful React framework for building fast, scalable, and SEO-friendly web applications with server-side rendering and API routes.
 
-## Learn More
+- **TailwindCSS:** A utility-first CSS framework for creating beautiful and responsive user interfaces.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **ShadcnUI:** A beautifully designed and customizable component library used to enhance the aesthetics and user experience of the website.
